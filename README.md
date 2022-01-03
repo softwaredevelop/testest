@@ -15,6 +15,4 @@ hg
 
 # tesssttt
 
-@softwaredevelopTODO #12
-
 # trese + tr
